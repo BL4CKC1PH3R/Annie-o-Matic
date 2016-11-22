@@ -1,0 +1,13 @@
+C:\Users\gubat_000\Documents\GitHub\Annie-O--Matic\Annie-O-Matic\Annie-O-Matic\bin\Release\Annie-O-Matic.exe.config
+C:\Users\gubat_000\Documents\GitHub\Annie-O--Matic\Annie-O-Matic\Annie-O-Matic\bin\Release\Annie-O-Matic.exe
+C:\Users\gubat_000\Documents\GitHub\Annie-O--Matic\Annie-O-Matic\Annie-O-Matic\bin\Release\Annie-O-Matic.pdb
+C:\Users\gubat_000\Documents\GitHub\Annie-O--Matic\Annie-O-Matic\Annie-O-Matic\bin\Release\LeagueSharp.Common.dll
+C:\Users\gubat_000\Documents\GitHub\Annie-O--Matic\Annie-O-Matic\Annie-O-Matic\bin\Release\LeagueSharp.dll
+C:\Users\gubat_000\Documents\GitHub\Annie-O--Matic\Annie-O-Matic\Annie-O-Matic\bin\Release\SharpDX.dll
+C:\Users\gubat_000\Documents\GitHub\Annie-O--Matic\Annie-O-Matic\Annie-O-Matic\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\gubat_000\Documents\GitHub\Annie-O--Matic\Annie-O-Matic\Annie-O-Matic\bin\Release\clipper_library.dll
+C:\Users\gubat_000\Documents\GitHub\Annie-O--Matic\Annie-O-Matic\Annie-O-Matic\bin\Release\LeagueSharp.Sandbox.dll
+C:\Users\gubat_000\Documents\GitHub\Annie-O--Matic\Annie-O-Matic\Annie-O-Matic\bin\Release\LeagueSharp.xml
+C:\Users\gubat_000\Documents\GitHub\Annie-O--Matic\Annie-O-Matic\Annie-O-Matic\obj\Debug\Annie-O-Matic.csprojResolveAssemblyReference.cache
+C:\Users\gubat_000\Documents\GitHub\Annie-O--Matic\Annie-O-Matic\Annie-O-Matic\obj\Debug\Annie-O-Matic.exe
+C:\Users\gubat_000\Documents\GitHub\Annie-O--Matic\Annie-O-Matic\Annie-O-Matic\obj\Debug\Annie-O-Matic.pdb
